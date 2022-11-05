@@ -1,5 +1,3 @@
-# The Shuffle Editor (https://shuffle.dev)
-
 NOTE: npm commands overwrite the ./public directory.
 
 ## 1. Getting Started
@@ -29,8 +27,6 @@ npm run build
 
 If you have found any bugs in the Tailwind Builder, have any questions, 
 comments or ideas for new features feel free to contact us:
-
-support@shuffle.dev
 
 ## 4. Credits & Special thanks
 
